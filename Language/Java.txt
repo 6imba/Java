@@ -1,0 +1,8 @@
+import java.util.Scanner;//this code import java.util package and call scanner class inside that package
+keuword package.name.Class;
+here scanner is claas inside the java.util package called using import keyword
+util means utility
+nextLine() => method
+
+
+import java.util.*; ==> this code will import ALL the classes in the java.util package:
